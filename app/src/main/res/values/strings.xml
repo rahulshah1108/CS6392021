@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Implicit Intents</string>
+
+    <string name="edittext_uri">https://www.liverpoolfc.com/</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Central Park</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\Liverpool Football Club is a professional football club in Liverpool, England</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Share this text with:</string>
+
+</resources>
